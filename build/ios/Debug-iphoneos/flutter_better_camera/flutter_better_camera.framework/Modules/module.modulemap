@@ -1,0 +1,6 @@
+framework module flutter_better_camera {
+  umbrella header "flutter_better_camera-umbrella.h"
+
+  export *
+  module * { export * }
+}
